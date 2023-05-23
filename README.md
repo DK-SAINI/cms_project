@@ -60,4 +60,4 @@ This is a RESTful API for a CMS (Content Management System) application. It prov
 
 ## API Documentation
 
-The API documentation and endpoints can be found in the [API documentation file](https://documenter.getpostman.com/view/22783737/2s93m4Xhax)`https://documenter.getpostman.com/view/22783737/2s93m4Xhax`.
+The API documentation and endpoints can be found in the [API documentation file](https://documenter.getpostman.com/view/22783737/2s93m4Xhax).
